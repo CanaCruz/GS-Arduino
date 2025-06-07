@@ -37,15 +37,6 @@ O sistema calcula o percentual de água com base na profundidade máxima configu
 - Buzzer ativo
 - Resistor de 220Ω para cada LED
 
-## 🧪 Simulação
-
-Você pode testar o projeto no simulador **Wokwi** clicando no link abaixo:
-
-🔗 [Simule o Projeto no Wokwi](https://wokwi.com/projects/EXEMPLO-DE-LINK)
-
-## 🖼️ Demonstração
-
-🎥 [Assista ao Vídeo no YouTube](https://youtube.com/EXEMPLO-DE-LINK)
 
 ## 🧾 Como Usar
 
