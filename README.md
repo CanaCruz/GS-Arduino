@@ -1,3 +1,6 @@
+# GS-Arduino
+
+
 # 🌊 Sistema de Alerta de Enchentes com Arduino
 
 Este projeto apresenta uma solução funcional e acessível para **monitorar níveis de água** e **emitir alertas** em tempo real, utilizando componentes simples e um Arduino UNO.
@@ -47,4 +50,4 @@ O sistema calcula o percentual de água com base na profundidade máxima configu
 
 ## 📂 Estrutura do Projeto
 
-# GS-Arduino
+
